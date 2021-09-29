@@ -1,0 +1,16 @@
+{
+  "name": "gyratififel-server",
+  "version": "0.1.0",
+  "description": "Gyratififel",
+  "repository": "git@github.com:MaxRozh/gyratifel-server.git",
+  "author": "Maxim Rozhaev",
+  "license": "MIT",
+  "private": true,
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=12.22.4"
+  }
+}
